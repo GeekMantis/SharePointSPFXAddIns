@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "page-viewer-client-side-solution",
+    "id": "f4e6a4af-f828-47a8-a9fb-7b4a83644796",
+    "version": "2.0.0.0",
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/page-viewer.sppkg"
+  }
+}
