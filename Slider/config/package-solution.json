@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "slider-client-side-solution",
+    "id": "c9841a33-06ac-42b0-b930-4e82056bbbab",
+    "version": "1.0.0.1"
+  },
+  "paths": {
+    "zippedPackage": "solution/slider.sppkg"
+  }
+}
